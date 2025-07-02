@@ -2,11 +2,17 @@
 ⚠️ NOTE: This is a deobfuscated translation, not live code, and intended only for analysis.
 
 Infected files: index.php, admin.php (at folder infected)
+
 Payload file: admin.php
+
 Clean decrypted downloader/dropper: index.php (decodeINFECTED)
+
 Clean encrypted payload file: payload (decodeINFECTED)
+
 Python Decoder: decode_payload.php (decodeINFECTED)
+
 Webshell file: maliciousPAYLOAD.php 
+
 
 --------------------(Possible webshell used: https://github.com/TheBinitGhimire/Web-Shells/blob/master/PHP/mini.php)--------------------
 

@@ -15,6 +15,7 @@ Webshell file: maliciousPAYLOAD.php
 
 
 --------------------( Possible webshell used )--------------------
+
 https://github.com/TheBinitGhimire/Web-Shells/blob/master/PHP/mini.php
 
 --------------------(CVE-2022-35583)--------------------
